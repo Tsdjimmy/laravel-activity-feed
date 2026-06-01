@@ -3,7 +3,7 @@
 [![Tests](https://github.com/tsdjimmy/laravel-activity-feed/actions/workflows/tests.yml/badge.svg)](https://github.com/tsdjimmy/laravel-activity-feed/actions/workflows/tests.yml)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/jimoh/laravel-activity-feed.svg)](https://packagist.org/packages/jimoh/laravel-activity-feed)
 [![PHP Version](https://img.shields.io/packagist/php-v/jimoh/laravel-activity-feed.svg)](https://packagist.org/packages/jimoh/laravel-activity-feed)
-[![Laravel](https://img.shields.io/badge/Laravel-11%2B-FF2D20?logo=laravel&logoColor=white)](https://laravel.com)
+[![Laravel](https://img.shields.io/badge/Laravel-11%20%7C%2012%20%7C%2013-FF2D20?logo=laravel&logoColor=white)](https://laravel.com)
 [![License](https://img.shields.io/packagist/l/jimoh/laravel-activity-feed.svg)](LICENSE)
 
 A Laravel package that logs model events and manual activity to an `activity_log` table. Includes a fluent query builder, model-change diff viewer, optional queue driver, intelligent caching, and an optional Filament v3 panel plugin (coming soon).
